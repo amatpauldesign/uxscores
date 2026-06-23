@@ -24,11 +24,15 @@ This section lists the explicit permissions obtained directly from the authors o
 
 Both the app and its source code are distributed under the **MIT Licence**, allowing anyone to reuse, modify, and adapt them freely.
 
-Please note that while **the app and its code** are MIT-licensed, **the UX questionnaires themselves are not mine**. Each questionnaire (e.g., SUS, UMUX-Lite, UEQ-S) may have its own licence, terms of use, or citation requirements.
+Please note that while **the app and its code** are MIT-licensed, this project contains third-party elements used with permission or under their respective licenses. 
+
+**The UX questionnaires themselves are not mine**. Each questionnaire (e.g., SUS, UMUX-Lite, UEQ-S) may have its own licence, terms of use, or citation requirements.
 
 Users must check the **original authors’ licences** before employing any questionnaire in a study, publication, or product.
 
 All questionnaires remain the intellectual property of their respective authors. This application only provides automated scoring and does not claim ownership of any scale.
+
+If you fork or redistribute this project, you are solely responsible for complying with the terms of these third-party licenses and obtaining any necessary permissions.
 
 ## Limitations
 
