@@ -35,11 +35,7 @@ with col2:
 
 st.write("Welcome! Select a questionnaire to start calculating UX scores.")
 
-st.caption(
-    """
-        Made by [Paul AMAT](https://paulamatdesign.github.io/). Your data is never stored or sent.
-    """
-)
+st.caption("Your data is never stored or sent.")
 
 st.space()
 
@@ -92,3 +88,5 @@ with col2:
 
     else:
         st.write("No questionnaire matches your filters.")
+
+st.caption("Made by [Paul AMAT](https://amatpauldesign.github.io/). Your data is never stored or sent.")
